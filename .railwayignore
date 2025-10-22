@@ -1,0 +1,8 @@
+client/
+client/**
+node_modules/
+.git/
+*.log
+*.db
+*.sqlite
+*.sqlite3
